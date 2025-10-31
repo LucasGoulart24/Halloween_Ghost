@@ -16,6 +16,28 @@ body{
 /*Fantasma*/
 .Fantasma{
     width: 20%;
+    animation-name: ghostAnimate;
+    animation-duration: 4s;
+    position: relative;
+}
+
+/*Animação*/
+@keyframes ghostAnimate {
+    0% {
+        top: 0; bottom: 0;
+    }
+    25% {
+        top: 50px; bottom: 0;
+    }
+    50% {
+        top: 0; bottom: 50px;
+    }
+    75% {
+        top: 50px; bottom: 0;
+    }
+    100% {
+        top: 0; bottom: 50px;
+    }
 }
 
 .card{
