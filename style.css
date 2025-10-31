@@ -50,6 +50,7 @@ body{
     border-top-left-radius: 50%;
     background-color: #fff;
     gap: 5rem;
+    box-shadow: 0px 19px 19px 0px rgba(255, 255, 255, 0.732);
 }
 
 .olho{
@@ -71,6 +72,7 @@ body{
     border-bottom-right-radius: 50%;
     border-bottom-left-radius: 50%;
     background-color: #fff;
+    box-shadow: 0px 3px 19px 0px rgba(255, 255, 255, 0.732);
 }
 
 .pata2{
@@ -79,6 +81,7 @@ body{
     border-bottom-left-radius: 50%;
     border-bottom-right-radius: 50%;
     background-color: #fff;
+    box-shadow: 0px 3px 19px 0px rgba(255, 255, 255, 0.732);
 }
 
 .pata3{
@@ -87,4 +90,5 @@ body{
     border-bottom-left-radius: 50%;
     border-bottom-right-radius: 50%;
     background-color: #fff;
+    box-shadow: 0px 3px 19px 0px rgba(255, 255, 255, 0.732);
 }
