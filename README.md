@@ -1,6 +1,6 @@
 # 👻 Fantasma do Halloween 🎃
 
-## Tech Used
+## Techs Used
 - HTML
 - CSS
 
